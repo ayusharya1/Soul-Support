@@ -14,7 +14,7 @@ const Header = () => {
         <main>
             <HashLink to = {"/#home"}>Home</HashLink>
             <HashLink to = {"https://psychology.feedspot.com/mental_health_blogs/"} target='_blank'>Blogs</HashLink> 
-            <HashLink to = {"/calling"} target='_blank'>Virtual Calling</HashLink>
+            <HashLink to = {"/calling"}>Virtual Calling</HashLink>
             <HashLink to = {"/quiz"}>Your Score</HashLink>
             <HashLink to = {"/#services"} scroll={el => scrollWithOffset(el)}>Services</HashLink>
             <HashLink to = {"/#team"} scroll={el => scrollWithOffset(el)}>Team</HashLink>

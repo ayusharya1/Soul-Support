@@ -169,7 +169,7 @@ Start your journey to emotional well-being today with Heiwa Habu.
               <h3 className="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                 <a href="#">Saurabh Pandey</a>
               </h3>
-              <p>Python and database</p>
+              <p>Frontend Developer</p>
               <ul className="flex justify-center mt-4 space-x-4">
                 <li>
                   <a href="#" className="text-[#39569c] hover:text-gray-900 dark:hover:text-white">

@@ -9,20 +9,20 @@ const Footer2 = () => {
     <footer>
         <div className="lefty">
         <h2>SoulSupport</h2>
-        <p>@all rights reserved</p>
-        <audio src={audi} controls loop/>
+        <p >@all rights reserved</p>
+        <audio className='!w-[200px] !h-[100px] !important mb-10' src={audi} controls loop/>
         
       </div>
       <div className="righty">
         <h3>Follow us on </h3>
         <p>soulsupport@gmail.com</p>
         <div className='linky'>
-        <HashLink to = {"mailto:rajsingh76554@gmail.com"} ><AiOutlineMail /></HashLink>
-        <HashLink to = {"https://chat.whatsapp.com/Fo5SCDf0NNj1IzGHoYfLl2"} > <AiOutlineWhatsApp /></HashLink>
-        <HashLink to = {"https://x.com/Rastogi2004"} > <AiOutlineTwitter /></HashLink>
-        <HashLink to = {"https://github.com/YASH-YADAV-dynamo"} > <AiOutlineGithub /></HashLink>
-        <HashLink to = {"https://www.instagram.com/raj_thakur004"} > <AiOutlineInstagram /></HashLink>
-        <HashLink to = {"https://www.linkedin.com/in/sarthak-stranger/"} > <AiOutlineLinkedin /></HashLink>
+        <HashLink to = {"mailto:ayusharya967@gmail.com"} ><AiOutlineMail /></HashLink>
+        <HashLink to = {"https://chat.whatsapp.com/JdKUXdh1t7hKIufq1ghKLk"} > <AiOutlineWhatsApp /></HashLink>
+        <HashLink to = {"https://x.com/SaurabhPan14864?t=Al0ev_iNDR6tOb2n6E5zDw&s=09"} > <AiOutlineTwitter /></HashLink>
+        <HashLink to = {"https://github.com/thenishantnayan"} > <AiOutlineGithub /></HashLink>
+        <HashLink to = {"https://www.instagram.com/thenishantnayan/profilecard/?igsh=amcxbXJqdmZ3bXpw"} > <AiOutlineInstagram /></HashLink>
+        <HashLink to = {"https://www.linkedin.com/in/ayush-arya-b261862a8/"} > <AiOutlineLinkedin /></HashLink>
         </div>
         
       </div>
